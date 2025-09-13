@@ -1,0 +1,135 @@
+React, com next e alguns frameworks como Framer Motion, ShadCN/UI, React Icons, ESLint, Tailwind, App Router
+React + Next.js (com App Router) — para rotas modernas e renderização otimizada
+
+Frameworks/Bibliotecas que combinam com o seu estilo:
+
+Framer Motion
+
+Para animar entrada de textos ("Eu sou Júnior"), os cards dos projetos e até o menu.
+
+Pode dar aquele efeito fade in ou slide suave.
+
+React Icons
+
+Você já usa ícones, mas pode explorar mais (ex: botões sociais com animações ao hover).
+
+ShadCN/UI (ou Radix UI)
+
+Vai te ajudar nos componentes interativos → dropdown do menu “Mais”, botões de contato, etc.
+
+Mantém acessibilidade e responsividade sem esforço.
+
+Lottie React
+
+Para adicionar microanimações em SVG/JSON.
+
+Exemplo: um aviãozinho animado no botão de “Enviar mensagem” ou um efeito no scroll.
+
+Typed.js / React Typed
+
+Dar um efeito de digitação no “Eu sou Júnior”.
+
+Fica mais dinâmico e moderno.
+
+EmailJS ou Formspree
+
+Para o formulário de contato ser funcional sem backend.
+
+Next.js (se ainda não usa)
+
+Seu portfólio ficaria melhor indexado no Google (SEO).
+
+Facilita roteamento e deploy.
+
+Particles.js / React-tsparticles
+
+Criar um fundo interativo (partículas que se movem com o mouse, por exemplo).
+
+Pode ser usado no topo do site pra dar destaque.
+
+SWR ou React Query
+
+Para puxar seus últimos projetos do GitHub direto na seção de “Projetos”.
+
+Assim o portfólio se mantém atualizado sozinho.
+
+
+
+
+
+
+
+
+
+
+Tailwind CSS — para estilização rápida e responsiva
+
+Framer Motion — animações e transições suaves
+
+ShadCN/UI — componentes prontos e consistentes para UI
+
+React Icons — ícones fáceis de usar em qualquer componente
+
+ESLint
+
+Next.js
+
+Facilita SEO (importante para quem quer ser encontrado pelo nome no Google).
+
+Renderização no servidor (SSR) → páginas carregam mais rápido.
+
+Roteamento de páginas automático (sem precisar instalar react-router).
+
+Deploy simples (Vercel é praticamente 1 clique).
+
+Framer Motion
+
+Para animações suaves e modernas.
+
+Dá aquele “toque premium” em cards, transições de páginas e botões.
+
+ShadCN/UI (ou Radix UI direto)
+
+Biblioteca de componentes já estilizados com Tailwind.
+
+Botões, modais, dropdowns, inputs → todos acessíveis e prontos para customizar.
+
+React Icons / Lucide Icons
+
+Ícones leves e modernos, perfeitos para redes sociais ou skills.
+
+Three.js / React Three Fiber
+
+Se quiser um diferencial mais visual, pode colocar animações 3D interativas.
+
+Exemplo: um cubo girando com suas skills, ou fundo animado.
+
+Contentlayer / MDX
+
+Caso queira ter um blog no portfólio.
+
+Escreve posts em Markdown e já aparecem no site.
+
+Firebase ou Supabase
+
+Se quiser adicionar um formulário de contato real com backend (sem depender só do EmailJS).
+
+React Query / TanStack Query
+
+Se o portfólio tiver consumo de API (ex: mostrar seus últimos repositórios do GitHub).
+
+Facilita o cache e loading dos dados.
+
+⚡ Minha sugestão de stack para um portfólio moderno:
+
+Next.js (estrutura + SEO)
+
+Tailwind (estilo rápido e responsivo)
+
+Framer Motion (animações)
+
+ShadCN/UI (componentes prontos)
+
+React Icons (ícones)
+
+EmailJS ou Supabase (formulário de contato funcional)

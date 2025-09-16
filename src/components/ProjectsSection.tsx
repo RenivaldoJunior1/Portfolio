@@ -110,7 +110,7 @@ const ProjectsSection = () => {
 
   <div className="flex-shrink-0 w-60 h-60 flex items-center justify-center">
     <img
-      src="/images/logopethope.png"
+      src="/images/Logopethope.png"
       alt="Pet Hope"
       className="max-w-full max-h-full object-contain rounded-md"
     />
